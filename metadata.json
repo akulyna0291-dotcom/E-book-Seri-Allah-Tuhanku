@@ -1,0 +1,6 @@
+{
+  "name": "Seri Allah Tuhanku",
+  "description": "Premium landing page for Islamic children's e-book series 'Seri Allah Tuhanku' targeting Muslim parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
